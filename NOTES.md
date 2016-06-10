@@ -6,17 +6,17 @@ With templating, it's super easy to combine multiple input sources with multiple
 
 Instead, on input source for one output file. As follows.
 
-3 input sources:
+##### 3 input sources:
 
- 1 file
- 1 key-value map 
- 1 header, set in compiled code
+ 1. file
+ 1. key-value map 
+ 1. header, set in compiled code
  
-3 output files
+##### 3 output files
 
- 2 Letter to Mom
- 2 JSON document
- 3 bash script
+ 2. Letter to Mom
+ 2. JSON document
+ 2. bash script
 
 If you're an automation enthusiast you will immediately want to combine these into more complex projects, but at least this will get you started. See [**jammazwan.maker**](https://github.com/jammazwan/jammazwan.maker) if you prefer a dizzying array of monster templating to confuse yourself with.
 
